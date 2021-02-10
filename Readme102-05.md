@@ -66,8 +66,8 @@
 
   look at this photo
 
-  <image src="image/Screenshot 2021-01-28 105629.jpg">
+  <image src="https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/Screenshot%202021-01-28%20105629.jpg?raw=true">
 
-  <image src="image/Screenshot 2021-01-28 102537.jpg">
+  <image src="https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/Screenshot%202021-01-28%20102537.jpg?raw=true">
 
-  <image src="image/Screenshot 2021-01-28 150017.jpg">
+  <image src="https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/Screenshot%202021-01-28%20150017.jpg?raw=true">
