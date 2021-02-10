@@ -7,20 +7,20 @@ Reading-note for code 102
 
 |class|Topic|
 |-------|--------|
-|01|[qrowth mind](Readme102-01.md)|
-|02|[make it site hand](Reading-note\Readme102-02.md)--[Version Control](Reading-note\Readme102-02b.md)|
-|03|[make site in vs code](Reading-note\Readme102-03.md)]|
+|01|[qrowth mind](https://naeemmusamh.github.io/Reading-note/Readme102-01)|
+|02|[make it site hand](https://naeemmusamh.github.io/Reading-note/Readme102-02)--[Version Control](https://naeemmusamh.github.io/Reading-note/Readme102-02b)|
+|03|[make site in vs code](https://naeemmusamh.github.io/Reading-note/Readme102-03)]|
 |04|-------|
-|05|[FUNCTIONS, METHODS & OBJECTS](Reading-note\Readme102-05.md)|
-|06|[refrance](Reading-note\Readme102-06.md)|
+|05|[FUNCTIONS, METHODS & OBJECTS](https://naeemmusamh.github.io/Reading-note/Readme102-05)|
+|06|[refrance](https://naeemmusamh.github.io/Reading-note/Readme102-06)|
 
 Reading-note for code 201
 
 |class|Topic|
 |-------|--------|
-|01|[css + js](Reading-note\Readme201-01.md)|
-|02|[The Element in HTML](Reading-note\Readme201-02.md)|
-|03|[CSS and JS style](Reading-note\Readme201-03.md)|
-|04|[CSS and JS style2](Reading-note\Readme201-04.md)]|
-|05|[image and css style](Reading-note\Readme201-05.md)|
+|01|[css + js](https://naeemmusamh.github.io/Reading-note/Readme201-01)|
+|02|[The Element in HTML](https://naeemmusamh.github.io/Reading-note/Readme201-02)|
+|03|[CSS and JS style](https://naeemmusamh.github.io/Reading-note/Readme201-03)|
+|04|[CSS and JS style2](https://naeemmusamh.github.io/Reading-note/Readme201-04)]|
+|05|[image and css style](https://naeemmusamh.github.io/Reading-note/Readme201-05)|
 |06|-------|
