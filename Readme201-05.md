@@ -22,7 +22,7 @@ how to used the width and the height in image?
 
 inside the element tag for the img you well put it there like ( width = size for it) and for the height you can put like ( height = size for it ) the size for it allow you to used px,%,ch,ex,fr,cm,mm .
 
-![image](Reading-note\IMAGE\image style.jpg)
+![image](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/image%20style.jpg)
 
 you can change the photo side by the block element and the block element always you to appear it on a new line also in there we used element tag like (b) (em).
 
@@ -42,7 +42,7 @@ when you want to cropping image make shower to not lose valuable information for
 
 when you want to put some text and add to your image you well may used figure element tag and inside it you well add figcaption element tag and the img element tag with src.
 
-![image](Reading-note\IMAGE\image style1.jpg)
+![image](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/image%20style1.jpg)
 
 # CSS style
 
