@@ -52,41 +52,41 @@ Lets me see you some photo to the position element in HTML and CSS and RESULT fo
 
 normal flow (static)
 
-![position element](Reading-note\IMAGE\position elements.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements.jpg)
 
 relative position (relative)
 
-![position element](Reading-note\IMAGE\position elements1.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements1.jpg)
 
 absolute position (absolute)
 
-![position element](Reading-note\IMAGE\position elements2.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements2.jpg)
 
 fixed position (fixed)
 
-![position element](Reading-note\IMAGE\position elements3.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements3.jpg)
 
 overlapping element (z-index)
 
-![position element](Reading-note\IMAGE\position elements4.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements4.jpg)
 
 float element (float)
 
-![position element](Reading-note\IMAGE\position elements5.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements5.jpg)
 
 element side by side (float)
 
-![position element](Reading-note\IMAGE\position elements6.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements6.jpg)
 
 clear float (clear)
 
-![position element](Reading-note\IMAGE\position elements7.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements7.jpg)
 
 parents of float element (problem)
 
-![position element](Reading-note\IMAGE\position elements8.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements8.jpg)
 
 parent of float element (solution)
 
-![position element](Reading-note\IMAGE\position elements9.jpg)
+![position element](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/position%20elements9.jpg)
 
