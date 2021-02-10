@@ -75,7 +75,7 @@ the code views : show you the code created by the visual editor so you can manua
 (s) indicates something that is no longer accurate or relevant.
 
 
-![photo](https://github.com/naeemmusamh/Amman-201/blob/main/class-02/iamge/HTML%20and%20ELEMENTS.jpg?raw=true)
+![photo](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/HTML%20and%20ELEMENTS.jpg?raw=true)
 
 
 # The Style of CSS insert
@@ -84,17 +84,17 @@ there is three way to insert CSS:
 
 1-internal
 
-![insertCSSinternal](https://github.com/naeemmusamh/Amman-201/blob/main/class-02/iamge/insert%20CSS%20internal.jpg?raw=true)
+![insertCSSinternal](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20internal.jpg?raw=true)
 
 2- external
 
 it will be in the additional file and the name should be style.css
 
-![insertCSSexternal](https://github.com/naeemmusamh/Amman-201/blob/main/class-02/iamge/insert%20CSS%20external.jpg?raw=true)
+![insertCSSexternal](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20external.jpg?raw=true)
 
 3- inline
 
-![insertCSSinline](https://github.com/naeemmusamh/Amman-201/blob/main/class-02/iamge/insert%20CSS%20inline.jpg?raw=true)
+![insertCSSinline](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20inline.jpg?raw=true)
 
 # CSS selectors
 
@@ -119,16 +119,16 @@ it will be in the additional file and the name should be style.css
 
 where it is found in the HTML
 
-![JavaScript run](https://github.com/naeemmusamh/Amman-201/blob/main/class-02/iamge/JavaScript%20run.jpg?raw=true)
+![JavaScript run](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/JavaScript%20run.jpg?raw=true)
 
 3- statment
 
 A statement is an individual instruction that the computer should follow. Each one should start on a new line and end with a semicolon. This makes your code easier to read and follow.
 
-![statment](https://github.com/naeemmusamh/Amman-201/blob/main/class-02/iamge/statement.jpg?raw=true)
+![statment](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/statement.jpg?raw=true)
 
 4- comment
 
 explain what your code does.
 
-![comment](https://github.com/naeemmusamh/Amman-201/blob/main/class-02/iamge/comments.jpg?raw=true)
+![comment](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/comments.jpg?raw=true)
