@@ -1,7 +1,7 @@
 # FUNCTIONS, METHODS & OBJECTS
 
   let's talking about functions
-  *The script is placed i nside an immediately invoked function expression
+  *The script is placed inside an immediately invoked function expression
   which helps protect the scope of variables*
 
   function|CREATE HOTEL OBJECT AND WRITE OUT THE OFFER DETAILS
@@ -9,14 +9,14 @@
   var hotel = {|Create a hotel object
   name: 'Park',|using object literal syntax
   roomRate: 240,|Amount in dollars
-  discount : 15,|Percentage di scount
+  discount : 15,|Percentage discount
   offerPrice: function() {|Wr ite out the hotel name,
   var offerRate = this .roomRate * ((100 - this .discount) I 100);|standard rate,
   return offerRate;|and the special rate
   var hotel Name, roomRate, specialRate;|Declare variables
-  hotelName = document .getElementByid('hotelName');|Get el ement s
-  roomRate = document.getElementByid('roomRate');|Get el ement s
-  specialRate = document .getElementByld('specialRate');|Get el ement s
+  hotelName = document .getElementByid('hotelName');|Get elements
+  roomRate = document.getElementByid('roomRate');|Get element s
+  specialRate = document .getElementByld('specialRate');|Get element s
   hotelName.textContent = hotel .name;|Write hotel name
   roomRate.textContent = '$ ' + hotel . roomRate .toFixed(2) ;|Write room rate
   specialRate .textContent = '$' +hotel .offerPrice();|Write offer pri ce
@@ -47,13 +47,13 @@
 
   1- Functions allow you to group a set of related statements together that represent a single task.
 
-  2- Functions can take parameters (informatiorJ requiredto do their job) and may return a value.
+  2- Functions can take parameters (information J required to do their job) and may return a value.
 
-  3- An object is a series of variables and functions thatrepresent something from the world around you.
+  3- An object is a series of variables and functions that represent something from the world around you.
 
-  4- In an object, variables are known as properties of theobject; functions are known as methods of the object.
+  4- In an object, variables are known as properties of the object; functions are known as methods of the object.
 
-  5- Web browsers implement objects that represent boththe browser window and the document loaded into the browser
+  5- Web browsers implement objects that represent both the browser window and the document loaded into the browser
   window.
 
   6- JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods

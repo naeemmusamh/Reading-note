@@ -1,6 +1,6 @@
 # We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues... the list goes on.
 
-Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and ecommerce facilities.
+Many web pages act like electronic versions of these documents. For example, newspapers show the same stories in print as they do on websites; you can apply for insurance over the web; and stores have online catalogs and commerce facilities.
 
 In all kinds of documents, structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand
 how to structure documents
@@ -13,7 +13,7 @@ how to structure documents
 
 3- The evolution of HTML
 
-4- Comments, meta information and iframes
+4- Comments, meta information and iframe
 
 5- HTML 5 and how old browsers understand new elements
 
@@ -47,7 +47,7 @@ Tags act like containers, they tell you something about the information that lie
 will usually find a title element inside the head element. 3- title The contents of the title element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page.
 
 ### What is HTML?????
-- [ ] stands for hper text markup language
+- [ ] stands for hyper text markup language
 - [ ] allows you to create links
 - [ ] allows you to move from one page to another
 
@@ -56,31 +56,31 @@ you can still look at the code that a web server sends to you. To try this out f
 [HTML and CSS Book](www.htmlandcssbook.com/code/)
 ## The evolution of HTML
 
-|HTML language |syxta         |
+|HTML language |syntax         |
 |--------------|--------------|
 |HTML5         |!doctype html>|
-|HTML4         |3!doctypes html public “-//w3c/dtd html 4.01 transition //en” http://www.w3.org/tr/html4//loose.dtd|
+|HTML4         |3!doctype html public “-//w3c/dtd html 4.01 transition //en” http://www.w3.org/tr/html4//loose.dtd|
 |html 1.0|!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/ xhtml1-transitional.dtd">|
 |xml|?xml version="1.0" ?>|
-# Comments, meta information and iframes
+# Comments, meta information and iframe
 
 a- Comments in html !-- --> If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters.
 
-b- Id attribute Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore example : p id="pullquote">
+b- Id attribute Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore example : p id="pull quote">
 
-c- Class attribute Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will wanway to identify several elements as being different from the other elements on the page. Example
+c- Class attribute Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want way to identify several elements as being different from the other elements on the page. Example
             : p class="important"
 
 d- Block elements Some elements will always appear to start on a new line in the browser window. These are known as block level elements. Example : h1>, p>, ul>, and li>. e- Inline elements Some elements will always appear to continue on the same line
-as their neighbouring elements. Example : a>, b>, em>, and img>.
+as their neighboring elements. Example : a>, b>, em>, and img>.
 
-e- Inline elements Some elements will always appear to continue on the same line as their neigh bouring elements. Example : a>, b>, em>, and img>.
-### Grouping Text & Eleme nts In a Block
+e- Inline elements Some elements will always appear to continue on the same line as their neighboring elements. Example : a>, b>, em>, and img>.
+### Grouping Text & Elements In a Block
 ## div
 block-elements.html HTML The div element allows you to group a set of elements together in one block-level box.
-Grouping Text & Eleme nts Inline
+Grouping Text & Elements Inline
 ## span
 The span element acts like an inline equivalent of the div element
-## IF rames
+## IFrames
 An iframe is like a little window that has been cut into your page — and in that window you can see another page.
 The term iframe is an abbreviation of inline frame

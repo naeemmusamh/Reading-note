@@ -37,7 +37,7 @@ In order to make code easier to read, web page authors often add extra spaces or
 
 ## what the difference between visual editors and code views???
 
-the visual editirs : often resemble word processors. Although each editor will differ slightly.
+the visual editors : often resemble word processors. Although each editor will differ slightly.
 
 the code views : show you the code created by the visual editor so you can manually edit it.
 
@@ -84,28 +84,28 @@ there is three way to insert CSS:
 
 1-internal
 
-![insertCSSinternal](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20internal.jpg?raw=true)
+![insertCSInternal](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20internal.jpg?raw=true)
 
 2- external
 
 it will be in the additional file and the name should be style.css
 
-![insertCSSexternal](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20external.jpg?raw=true)
+![insertCSExternal](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20external.jpg?raw=true)
 
 3- inline
 
-![insertCSSinline](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20inline.jpg?raw=true)
+![insertCSInline](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/insert%20CSS%20inline.jpg?raw=true)
 
 # CSS selectors
 
 |Selector|Example|
 |--------|-------|
-|unversal selector|*{}|
+|universal selector|*{}|
 |type selector| h1 {}|
 |class selector|.note {}|
 |ID selector|#introduction{}|
 |child selector|li> {}|
-|desendant selector|p {}|
+|descendant selector|p {}|
 |adjacent sibling selector|h1+p{}|
 |general sibling selector|h1~p{}|
 
@@ -121,11 +121,11 @@ where it is found in the HTML
 
 ![JavaScript run](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/JavaScript%20run.jpg?raw=true)
 
-3- statment
+3- statement
 
 A statement is an individual instruction that the computer should follow. Each one should start on a new line and end with a semicolon. This makes your code easier to read and follow.
 
-![statment](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/statement.jpg?raw=true)
+![statement](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/statement.jpg?raw=true)
 
 4- comment
 
