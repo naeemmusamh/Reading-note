@@ -8,7 +8,7 @@
 
 the ordered list it a tag element in HTML like (ol) it create be opening tang and close tag
 
-and in the ol tag it include (li) is placed in ol between opening tag and closeing tag
+and in the ol tag it include (li) is placed in ol between opening tag and closeting tag
 
 ![]()
 
@@ -16,13 +16,13 @@ and in the ol tag it include (li) is placed in ol between opening tag and closei
 
 # specify the type of bullet point (circles, squares, diamonds and so on)
 
-the unordered list it a tag element in THML like (ul) it create be opening tag and closing tag
+the unordered list it a tag element in HTML like (ul) it create be opening tag and closing tag
 
 and in the ul tag it include (li) is placed in ul between the opening tag and closing tag
 
 3- Definition list
 
-# list where there are two terms used for the same definition or two different definitions for the sameterm.
+# list where there are two terms used for the same definition or two different definitions for the smatters.
 
 the definition list it a tag element in HTML like (d1) it create be opening tag and closing tag
 
@@ -52,9 +52,9 @@ tells the browser what to do if the content contained within a box is larger tha
 
 a- hidden
 
-hiden any extra text in the element tag
+hided any extra text in the element tag
 
-b- scoll
+b- scroll
 
 add a scrollbar to the element if the element text have any extra text
 
@@ -64,7 +64,7 @@ Every box has three available properties that can be adjusted to control its
 
 a- border ( separates the edge of one box )
 
-b- margin ( set the width and helght to the box or image )
+b- margin ( set the width and height to the box or image )
 
 c- padding ( space between the border of a box or content )
 
@@ -86,19 +86,19 @@ you well used display content it well allows you to turn the element into one li
 
 9- Hiding Boxes
 
-you well used visibility content it well allows you to hidden the element in the box hiden
+you well used visibility content it well allows you to hidden the element in the box hided
 
 # JavaScript
 
 # as we all know that there is an operation for the boolean we used in the if statement for the condition and there is two way
 
-first one ( cpmparison operator )
+first one ( comparison operator )
 
 the comparison operator usually return single value of true or false
 
 the expression for the comparison operator :
 
-1- > grather than
+1- > gather than
 
 2- < less than
 
@@ -110,7 +110,7 @@ the expression for the comparison operator :
 
 the second one ( logical operator )
 
-the expression for the logal operator :
+the expression for the global operator :
 
 1- && and
 
