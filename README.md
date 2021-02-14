@@ -24,3 +24,4 @@ Reading-note for code 201
 |04|[CSS and JS style2](https://naeemmusamh.github.io/Reading-note/Readme201-04)]|
 |05|[image and css style](https://naeemmusamh.github.io/Reading-note/Readme201-05)|
 |06|[JavaScript call function](https://naeemmusamh.github.io/Reading-note/Readme201-06)|
+|07|[JavaScript object and HTML](https://naeemmusamh.github.io/Reading-note/Readme201-07)|
