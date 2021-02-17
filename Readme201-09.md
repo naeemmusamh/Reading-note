@@ -38,7 +38,7 @@ D- Uploading files
 
 A user fills in a form and then presses a button to submit the information to the server.
 
-![forms](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE\form.jpg)
+![forms](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/form.jpg?raw=true)
 
 # Form Structure
 
@@ -58,7 +58,7 @@ post
 
 With the post method the values are sent in what are known as HTTP headers. As a rule of thumb you should use the post.
 
-![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE\form1.jpg)
+![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/form1.jpg?raw=true)
 
 2- Text Input
 
@@ -77,7 +77,7 @@ size
 
 The size attribute should not be used on new forms. It was used in older forms to indicate the width of the text input.
 
-![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE\form2.jpg)
+![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/form2.jpg?raw=true)
 
 3- Password Input
 
@@ -91,13 +91,13 @@ size, maxlength
 
 It can also carry the size and maxlength attributes like the the single-line text input.
 
-![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE\form3.jpg)
+![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/form3.jpg?raw=true)
 
 4- Text Area
 
 The textarea element is used to create a multi-line text input. Unlike other input elements this is not an empty element. It should therefore have an opening and a closing tag. Any text that appears between the opening textarea and closing textarea tags will appear in the text box when the page loads. If the user does not delete any text between these tags, this message will get sent to the server along with whatever the user has typed.
 
-![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE\form4.jpg)
+![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/form4.jpg?raw=true)
 
 5- Radio button
 
@@ -117,7 +117,7 @@ The checked attribute can be used to indicate which value (if any) should be sel
 
 Note: Once a radio button has been selected it cannot be deselected.
 
-![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE\form5.jpg)
+![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/form5.jpg?raw=true)
 
 6- Check Box
 
@@ -135,4 +135,4 @@ checked
 
 The checked attribute indicates that this box should be checked when the page loads. If used, its value should be checked.
 
-![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE\form6.jpg)
+![form](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/form6.jpg?raw=true)
