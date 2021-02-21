@@ -29,3 +29,4 @@ Reading-note for code 201
 |09|[Examining the dom and forms](https://naeemmusamh.github.io/Reading-note/Readme201-09)|
 |10|[BASIC MAP SETTINGS](https://naeemmusamh.github.io/Reading-note/Readme201-10)|
 |11|[HTML Image and Practical information ](https://naeemmusamh.github.io/Reading-note/Readme201-11)|
+|12|[CANVAS AND CHARTS.JS ](https://naeemmusamh.github.io/Reading-note/Readme201-12)|
