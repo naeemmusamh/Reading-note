@@ -30,3 +30,23 @@ Reading-note for code 201
 |10|[BASIC MAP SETTINGS](https://naeemmusamh.github.io/Reading-note/Readme201-10)|
 |11|[HTML Image and Practical information ](https://naeemmusamh.github.io/Reading-note/Readme201-11)|
 |12|[CANVAS AND CHARTS.JS ](https://naeemmusamh.github.io/Reading-note/Readme201-12)|
+|13|[THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](https://naeemmusamh.github.io/Reading-note/Readme201-13)|
+
+
+# The refrance
+
+For the code 102
+
+class1 & class2 & class3 & class4 & class5 & class6 the bock [ducket_javascript](http://javascriptbook.com/) and [duckett_html](https://wtf.tw/ref/duckett.pdf)
+
+for the code 201
+
+class1 & class2 & class3 & class4 & class5 & class6 & class7 & class8 & class9 &
+
+class10 & class11 the book [ducket_javascript](http://javascriptbook.com/) and
+
+[duckett_html](https://wtf.tw/ref/duckett.pdf)
+
+for the class12 [webdesignerdepot](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+
+class13 [diveinto](http://diveinto.html5doctor.com/storage.html)
