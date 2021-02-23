@@ -7,12 +7,12 @@ Reading-note for code 102
 
 |class|Topic|
 |-------|--------|
-|01|[qrowth mind](https://naeemmusamh.github.io/Reading-note/Readme102-01)|
+|01|[growth mind](https://naeemmusamh.github.io/Reading-note/Readme102-01)|
 |02|[make it site hand](https://naeemmusamh.github.io/Reading-note/Readme102-02)--[Version Control](https://naeemmusamh.github.io/Reading-note/Readme102-02b)|
 |03|[make site in vs code](https://naeemmusamh.github.io/Reading-note/Readme102-03)]|
 |04|-------|
 |05|[FUNCTIONS, METHODS & OBJECTS](https://naeemmusamh.github.io/Reading-note/Readme102-05)|
-|06|[refrance](https://naeemmusamh.github.io/Reading-note/Readme102-06)|
+|06|[reference](https://naeemmusamh.github.io/Reading-note/Readme102-06)|
 
 Reading-note for code 201
 
@@ -31,22 +31,28 @@ Reading-note for code 201
 |11|[HTML Image and Practical information ](https://naeemmusamh.github.io/Reading-note/Readme201-11)|
 |12|[CANVAS AND CHARTS.JS ](https://naeemmusamh.github.io/Reading-note/Readme201-12)|
 |13|[THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](https://naeemmusamh.github.io/Reading-note/Readme201-13)|
+|13|[HTML AND CSS](https://naeemmusamh.github.io/Reading-note/Readme201-14a)|
+|13|[THE WORK ISSUE](https://naeemmusamh.github.io/Reading-note/Readme201-13)|
 
 
-# The refrance
+# The reference
 
 For the code 102
 
-class1 & class2 & class3 & class4 & class5 & class6 the bock [ducket_javascript](http://javascriptbook.com/) and [duckett_html](https://wtf.tw/ref/duckett.pdf)
+class1 & class2 & class3 & class4 & class5 & class6 the bock [ducked_javascript](http://javascriptbook.com/) and [puckett_html](https://wtf.tw/ref/duckett.pdf)
 
 for the code 201
 
 class1 & class2 & class3 & class4 & class5 & class6 & class7 & class8 & class9 &
 
-class10 & class11 the book [ducket_javascript](http://javascriptbook.com/) and
+class10 & class11 the book [ducked_javascript](http://javascriptbook.com/) and
 
-[duckett_html](https://wtf.tw/ref/duckett.pdf)
+[puckett_html](https://wtf.tw/ref/duckett.pdf)
 
 for the class12 [webdesignerdepot](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
-class13 [diveinto](http://diveinto.html5doctor.com/storage.html)
+class13 [divinity](http://diveinto.html5doctor.com/storage.html)
+
+class 14 for the 14a [the new work times magazine](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
+14b [learn to code advanced](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
