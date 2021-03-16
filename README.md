@@ -35,13 +35,25 @@ Reading-note for code 201
 |13|[THE WORK ISSUE](https://naeemmusamh.github.io/Reading-note/Readme201-13)|
 
 
-# The reference
+Reading-note for code 301
 
-For the code 102
+|class|Topic|
+|-------|--------|
+|01|-------|
+|02|-------|
+|03|-------|
+|04|-------|
+|05|-------|
+|06|-------|
 
-class1 & class2 & class3 & class4 & class5 & class6 the bock [ducked_javascript](http://javascriptbook.com/) and [puckett_html](https://wtf.tw/ref/duckett.pdf)
 
-for the code 201
+# The Reference
+
+For The Code 102
+
+class1 & class2 & class3 & class4 & class5 & class6 the book [ducked_javascript](http://javascriptbook.com/) and [puckett_html](https://wtf.tw/ref/duckett.pdf)
+
+For The Code 201
 
 class1 & class2 & class3 & class4 & class5 & class6 & class7 & class8 & class9 &
 
