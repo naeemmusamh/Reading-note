@@ -39,7 +39,7 @@ Reading-note for code 301
 
 |class|Topic|
 |-------|--------|
-|01|-------|
+|01|[RESPONSIVE WEB DESIGN and FLOATS](https://naeemmusamh.github.io/Reading-note/Readme301-01)|
 |02|-------|
 |03|-------|
 |04|-------|
