@@ -46,9 +46,9 @@ aside {
   width: 158px;
 }
 
-![FIXED GRID DEMO](IMAGE/FIXEDGRIDDEMO.jpg)
+![FIXED GRID DEMO](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/FIXED%20GRID%20DEMO.jpg?raw=true)
 
-![FLEXIBLE GRID](IMAGE/FLEXIBLEGRID.jpg)
+![FLEXIBLE GRID](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/FLEXIBLE%20GRID.jpg?raw=true)
 
 section,
 aside {
@@ -63,7 +63,7 @@ aside {
   width: 29.3680297%;  /* 158px ÷ 538px = .293680297 */
 }
 
-![FLIXABLE GIRD DEMO](IMAGE/FLIXABLEGIRDDEMO.jpg)
+![FLIXABLE GIRD DEMO](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/FIXED%20GRID%20DEMO.jpg?raw=true)
 
 B- Media queries
 
@@ -73,9 +73,9 @@ Media queries were built as an extension to media types commonly found when targ
 
 There are a couple different ways to use media queries, using the @media rule inside of an existing style sheet, importing a new style sheet using the @import rule, or by linking to a separate style sheet from within the HTML document.
 
-![INITIALIZING MEDIA](IMAGE/INITIALIZINGMEDIA.jpg)
+![INITIALIZING MEDIA](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/INITIALIZING%20MEDIA.jpg?raw=true)
 
-![INITIALIZING MEDIA](IMAGE/INITIALIZINGMEDIAQU.jpg)
+![INITIALIZING MEDIA](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/INITIALIZING%20MEDIA%20QU.jpg?raw=true)
 
 Each media query may include a media type followed by one or more expressions. Common media types include all, screen, print, tv, and braille. The HTML5 specification includes new media types, even including 3d-glasses.
 
@@ -117,7 +117,7 @@ Float is a CSS positioning property. To understand its purpose and origin, we ca
 
 In page layout programs, the boxes that hold the text can be told to honor the text wrap, or to ignore it. Ignoring the text wrap will allow the words to flow right over the image like it wasn’t even there. This is the difference between that image being part of the flow of the page.
 
-![FLOAT](IMAGE/FLOAT.jpg)
+![FLOAT](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/FLOAT.jpg?raw=true)
 
 There are four valid values for the float property. Left and Right float elements those directions respectively. None (the default) ensures the element will not float and Inherit which will assume the float value from that elements parent element.
 
@@ -129,7 +129,7 @@ There are four valid values for the float property. Left and Right float element
 
 Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
 
-![FLOAT](IMAGE/FLOATING.jpg)
+![FLOAT](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/FLOATING.jpg?raw=true)
 
 Floats are also helpful for layout in smaller instances.
 
@@ -138,7 +138,7 @@ Floats are also helpful for layout in smaller instances.
 Float’s sister property is clear. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
 without clear
 
-![floatclear](IMAGE/floatclear.jpg)
+![floatclear](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/floatclear.jpg?raw=true)
 
 with clear
 
@@ -146,7 +146,7 @@ with clear
   clear: both;			
 }
 
-![floatclear](IMAGE/floatclear1.jpg)
+![floatclear](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/floatclear1.jpg?raw=true)
 
 Clear has four valid values as well. Both is most commonly used, which clears floats coming from either direction. Left and Right can be used to only clear the float from one direction respectively. None is the default, which is typically unnecessary unless removing a clear value from a cascade. Inherit would be the fifth, but is strangely not supported in Internet Explorer. Clearing only the left or right float, while less commonly seen in the wild, definitely has its uses.
 
