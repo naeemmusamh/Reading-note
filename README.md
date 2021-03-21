@@ -40,7 +40,7 @@ Reading-note for code 301
 |class|Topic|
 |-------|--------|
 |01|[RESPONSIVE WEB DESIGN and FLOATS](https://naeemmusamh.github.io/Reading-note/Readme301-01)|
-|02|-------|
+|02|[JQuery, Events, and The DOM](https://naeemmusamh.github.io/Reading-note/Readme301-02)|
 |03|-------|
 |04|-------|
 |05|-------|
