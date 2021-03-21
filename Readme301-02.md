@@ -8,11 +8,11 @@ a function called jquery() lets you find one or more elements in the page.
 it creates an object called jquery which holds references to those elements.
 $() is often used as a shourthand to save types jquery().
 
-![jquery]()
+![jquery](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/jquery.jpg?raw=true)
 
 the jquery object has many methods that you can use to work with the elements you select. the methods represent tasks that you commonly need to perform with eleements.
  
- ![jquery]()
+ ![jquery](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/jquery1.jpg?raw=true)
 
 A BASIC JQUERY EXAMPLE
 
@@ -30,9 +30,9 @@ If you want to look at the jQuery file, you can open it with a text editor - it 
 
 Most people who use jQuery do not try to understand how the jQuery JavaScript file achieves what it does.As long as you know how to select elements and how to use its methods and properties, you can reap the benefits of using jQuery without looking under the hood.
 
-![jquery]()
+![jquery](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/jquery2.jpg?raw=true)
 
-![]()
+![jquery](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/jquery11.jpg?raw=true)
 
 WHY USE JQUERY?
 
@@ -58,5 +58,5 @@ if a jquery holds more than one element and a method is used to get information 
 2. set information
 if a jquery holds more than one element and a method is used to update information on the page it will update all of the element in the matched set not just the first one.
 
-![]()
+![jquery](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/jquery3.jpg?raw=true)
 
