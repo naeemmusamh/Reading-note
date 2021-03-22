@@ -28,15 +28,15 @@ $ yarn add mustache-express
 2. or With NPM :
 $ npm install mustache --save
 3. Configure mustache-express in your  | server.js / app.js / index.js | file:
-![1_ES10lxr7tdRFVEKcRAgLEw]()
+![1_ES10lxr7tdRFVEKcRAgLEw](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/1_ES10lxr7tdRFVEKcRAgLEw.png?raw=true)
 4. Create a views folder and add some html view templates (e.g. hello.html):
-![1_zwYE8a5rvAVZcBl9v1oqfA]()
-![1_FRcL9NQHI7Cvi2ELLmzJGQ]()
+![1_zwYE8a5rvAVZcBl9v1oqfA](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/1_zwYE8a5rvAVZcBl9v1oqfA.png?raw=true)
+![1_FRcL9NQHI7Cvi2ELLmzJGQ](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/1_FRcL9NQHI7Cvi2ELLmzJGQ.png?raw=true)
 5. Then in the router configuration, use res.render(TEMPLATE_NAME, JSON_DATA). Example:
 res.render('hello', {"name": "Sherlynn"})
 res.render('hello', nameObject)
 6. Final output :
-![1_YaJ1vtsuwRMhfi8parlHOA]()
+![1_YaJ1vtsuwRMhfi8parlHOA](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/1_YaJ1vtsuwRMhfi8parlHOA.png?raw=true)
 
 This is just a simple basic example, but I hope it helps you to understand the basic concept behind templating.
 
