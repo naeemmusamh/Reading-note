@@ -44,7 +44,14 @@ Reading-note for code 301
 |03|[MUSTACHE and FLEXBOX](https://naeemmusamh.github.io/Reading-note/Readme301-03)|
 |04|[Regex tutorial — A quick cheatsheet by examples](https://naeemmusamh.github.io/Reading-note/Readme301-04)|
 |05|[Node.js For Beginners. Deploy Your Blog to Heroku](https://naeemmusamh.github.io/Reading-note/Readme301-05)|
-|06|-------|
+|06|[Node, Express, and APIs](https://naeemmusamh.github.io/Reading-note/Readme301-06)|
+|07|----------------|
+|08|----------------|
+|09|----------------|
+|10|----------------|
+|11|----------------|
+|12|----------------|
+|13|----------------|
 
 
 # The Reference
