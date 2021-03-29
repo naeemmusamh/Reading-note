@@ -44,9 +44,9 @@ Reading-note for code 301
 |03|[MUSTACHE and FLEXBOX](https://naeemmusamh.github.io/Reading-note/Readme301-03)|
 |04|[Regex tutorial — A quick cheatsheet by examples](https://naeemmusamh.github.io/Reading-note/Readme301-04)|
 |05|[Node.js For Beginners. Deploy Your Blog to Heroku](https://naeemmusamh.github.io/Reading-note/Readme301-05)|
-|06|[Node, Express, and APIs](https://naeemmusamh.github.io/Reading-note/Readme301-06)|
-|07|----------------|
-|08|----------------|
+|06|[calling function that need information](https://naeemmusamh.github.io/Reading-note/Readme301-06)|
+|07|[APIs continued](https://naeemmusamh.github.io/Reading-note/Readme301-07)|
+|08|[SQL](https://naeemmusamh.github.io/Reading-note/Readme301-08)|
 |09|----------------|
 |10|----------------|
 |11|----------------|
