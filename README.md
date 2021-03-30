@@ -47,7 +47,7 @@ Reading-note for code 301
 |06|[calling function that need information](https://naeemmusamh.github.io/Reading-note/Readme301-06)|
 |07|[APIs continued](https://naeemmusamh.github.io/Reading-note/Readme301-07)|
 |08|[SQL](https://naeemmusamh.github.io/Reading-note/Readme301-08)|
-|09|----------------|
+|09|[FUNCTIONAL PROGRAMMING](https://naeemmusamh.github.io/Reading-note/Readme301-09)|
 |10|----------------|
 |11|----------------|
 |12|----------------|
