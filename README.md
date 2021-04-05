@@ -49,8 +49,8 @@ Reading-note for code 301
 |08|[SQL](https://naeemmusamh.github.io/Reading-note/Readme301-08)|
 |09|[FUNCTIONAL PROGRAMMING](https://naeemmusamh.github.io/Reading-note/Readme301-09)|
 |10|[THE CALL STACK](https://naeemmusamh.github.io/Reading-note/Readme301-10)|
-|11|----------------|
-|12|----------------|
+|11|[Rest , EJS](https://naeemmusamh.github.io/Reading-note/Readme301-11)|
+|12|[EJS PARTIALS](https://naeemmusamh.github.io/Reading-note/Readme301-12)|
 |13|----------------|
 
 
