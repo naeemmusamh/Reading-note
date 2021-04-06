@@ -51,7 +51,7 @@ Reading-note for code 301
 |10|[THE CALL STACK](https://naeemmusamh.github.io/Reading-note/Readme301-10)|
 |11|[Rest , EJS](https://naeemmusamh.github.io/Reading-note/Readme301-11)|
 |12|[EJS PARTIALS](https://naeemmusamh.github.io/Reading-note/Readme301-12)|
-|13|----------------|
+|13|[Update and Delete](https://naeemmusamh.github.io/Reading-note/Readme301-13)|
 
 
 # The Reference
