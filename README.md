@@ -53,6 +53,7 @@ Reading-note for code 301
 |12|[EJS PARTIALS](https://naeemmusamh.github.io/Reading-note/Readme301-12)|
 |13|[Update and Delete](https://naeemmusamh.github.io/Reading-note/Readme301-13)|
 |14|[DATABASE NORMALIZATION](https://naeemmusamh.github.io/Reading-note/Readme301-14)|
+|15|[DATABASE NORMALIZATION](https://naeemmusamh.github.io/Reading-note/Readme301-15)|
 
 
 # The Reference
