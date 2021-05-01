@@ -66,7 +66,7 @@
 
   look at this photo
 
-  <img src="IMAGE/102/Screenshot 2021-01-28 105629.jpg">
+  <img src="../../IMAGE/102/Screenshot 2021-01-28 105629.jpg">
 
   <img src="IMAGE/102/Screenshot 2021-01-28 102537.jpg">
 
