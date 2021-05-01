@@ -3,7 +3,7 @@ Welcome and hello to my page, where you'll learn the basics of computer programm
 In this course you will build your website but first it well prepare you to install some programs like Ubuntu and bash and vs code and git and make your windows version ready to work in it and sign in to GitHub and repl.it
 The general course schedule is:
 
-<h1> Reading-note for code <span style="color:blue">  *blue* 102 </span> </h1> 
+<h1> Reading-note for code <span style="color:blue">  102 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
