@@ -81,5 +81,4 @@ EMPTY
 
 In summary, then, we start with an empty Call Stack. Whenever we invoke a function, it is automatically added to the Call Stack. Once the function has executed all of its code, it is automatically removed from the Call Stack. Ultimately, the Stack is empty again.
 
-
-<img src="IMAGE/call stack.jpg">
+![call stack](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/call%20stack.jpg?raw=true)

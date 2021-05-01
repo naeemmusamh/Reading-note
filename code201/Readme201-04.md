@@ -52,41 +52,40 @@ Lets me see you some photo to the position element in HTML and CSS and RESULT fo
 
 normal flow (static)
 
-<img src="IMAGE/201/position elements.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements.jpg?raw=true)
 
 relative position (relative)
 
-<img src="IMAGE/201/position elements1.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements1.jpg?raw=true)
 
 absolute position (absolute)
 
-<img src="IMAGE/201/position elements2.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements2.jpg?raw=true)
 
 fixed position (fixed)
 
-<img src="IMAGE/201/position elements3.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements3.jpg?raw=true)
 
 overlapping element (z-index)
 
-<img src="IMAGE/201/position elements4.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements4.jpg?raw=true)
 
 float element (float)
 
-<img src="IMAGE/201/position elements5.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements5.jpg?raw=true)
 
 element side by side (float)
 
-<img src="IMAGE/201/position elements6.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements6.jpg?raw=true)
 
 clear float (clear)
 
-<img src="IMAGE/201/position elements7.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements7.jpg?raw=true)
 
 parents of float element (problem)
 
-<img src="IMAGE/201/position elements8.jpg">
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements8.jpg?raw=true)
 
 parent of float element (solution)
 
-<img src="IMAGE/201/position elements9.jpg">
-
+![position](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/position%20elements9.jpg?raw=true)

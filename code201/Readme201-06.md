@@ -4,11 +4,11 @@
 
 when you call a function that has parameters, you specify the values it should use in the parentheses that follow its name and that values are called arguments and they can be provided as values or as variable.
 
-<img src="IMAGE/201/function0.jpg">
+![function](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/function0.jpg?raw=true)
 
 some function return information to the code that called them.
 
-<img src="IMAGE/201/function1.jpg">
+![function](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/function1.jpg?raw=true)
 
 function can return more than one value using an array.
 
@@ -20,13 +20,13 @@ function can return more than one value using an array.
 
 create a function that you can call later in your code, to call the function later in your code you must give it a name call named function.
 
-<img src="IMAGE/201/function2.jpg">
+![function](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/function2.jpg?raw=true)
 
 2. function expression
 
 create a function where the interpreter would expect to see an expression, and the function with no name is called an anonymous function.
 
-<img src="IMAGE/201/function3.jpg">
+![function](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/function3.jpg?raw=true)
 
 variable scope :
 
@@ -60,7 +60,7 @@ value of the variable is true, but that variable has already been set to a value
 
 when you need to work with an element more than once, you should use a variable to store the result of this query, when a script an element to access or update, the interpreter must find the element in the dom tree.
 
-<img src="IMAGE/201/dom tree.jpg">
+![dot](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/dom%20tree.jpg?raw=true)
 
 1. (get element by idname)
 2. (get element by class name)

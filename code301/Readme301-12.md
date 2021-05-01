@@ -5,11 +5,11 @@ Partials come in handy when you want to reuse the same HTML across multiple view
 Our blog will consist of a home page which lists all the blog posts and a post page which will display a single post. Our home page will look like so:
 
 
-<img src="IMAGE/0_VngdKfkNNx5f2un0.png">
+![node](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/0_VngdKfkNNx5f2un0.png?raw=true)
 
 and the post page:
 
-<img src="IMAGE/0_oUmdAzjcwkQZb_AR.png">
+![node](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/0_oUmdAzjcwkQZb_AR.png?raw=true)
 
 Let’s go ahead and create those partials. Under the views/partials/ directory create a file called navbar.ejs which will contain only the HTML for the navigation bar at the top of the home and post pages:
 

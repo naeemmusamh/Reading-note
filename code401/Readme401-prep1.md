@@ -6,7 +6,7 @@ The map() method creates a new array populated with the results of calling a pro
 
 Syntax :
 
-<img src="IMAGE/401/ARRAY.jpg">
+![ARRAY](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/401/ARRAY.jpg?raw=true)
 
 2. Array.reduce
 
@@ -21,7 +21,7 @@ D- Source Array
 
 Syntax :
 
-<img src="IMAGE/401/reduce.jpg">
+![reduce](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/401/reduce.jpg?raw=true)
 
 3. superagent
 
@@ -56,7 +56,7 @@ The then() method returns a Promise. It takes up to two arguments: callback func
 
 Syntax :
 
-<img src="IMAGE/401/then.jpg">
+![then](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/401/then.jpg?raw=true)
 
 5. async
 

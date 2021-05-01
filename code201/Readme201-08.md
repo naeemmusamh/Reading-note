@@ -23,7 +23,7 @@ It is common to group a number of elements together inside a div element. the di
 
 A box may be nested inside several other block-level elements. The containing element is always the direct parent of that element.
 
-# Controll ing the Position of Elements
+# Controls ing the Position of Elements
 
 CSS has the following positioning schemes that allow you to control the layout of a page: 
 
@@ -39,19 +39,19 @@ You specify the positioning scheme using the position property in CSS. You can a
 
 Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one.
 
-<img src="IMAGE/201/block1.jpg">
+![block](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/block1.jpg?raw=true)
 
 2. relative positioning :
 
 This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed.
 
-<img src="IMAGE/201/block2.jpg">
+![block](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/block2.jpg?raw=true)
 
 3. absolute positioning :
 
 This positions the element in relation to its containing element. It is taken out of normal flow, meaning that it does not affect the position of any surrounding elements.
 
-<img src="IMAGE/201/block3.jpg">
+![block](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/block3.jpg?raw=true)
 
 To indicate where a box should be positioned, you may also need to use box offset properties to tell the browser how far from the top or bottom and left or right it should be placed.
 

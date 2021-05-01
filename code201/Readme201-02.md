@@ -75,7 +75,7 @@ the code views : show you the code created by the visual editor so you can manua
 (s) indicates something that is no longer accurate or relevant.
 
 
-<img src="IMAGE/201/HTML and ELEMENTS.jpg">
+![HTML](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/HTML%20and%20ELEMENTS.jpg?raw=true)
 
 
 # The Style of CSS insert
@@ -84,19 +84,17 @@ there is three way to insert CSS:
 
 1. internal
 
-<img src="IMAGE/201/insert CSS internal.jpg">
+![CSS](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/insert%20CSS%20internal.jpg?raw=true)
 
 2. external
 
 it will be in the additional file and the name should be style.css
 
-<img src="IMAGE/201/insert CSS external.jpg">
-
+![CSS](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/insert%20CSS%20external.jpg?raw=true)
 
 3. inline
 
-<img src="IMAGE/201/insert CSS external.jpg">
-
+![CSS](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/insert%20CSS%20inline.jpg?raw=true)
 
 # CSS selectors
 
@@ -115,24 +113,22 @@ it will be in the additional file and the name should be style.css
 
 1. how to use objects and methods
 
-<img src="IMAGE/201/JavaScript.jpg">
+![JavaScript](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/JavaScript.jpg?raw=true)
 
 2. JavaScript runs
 
 where it is found in the HTML
 
-<img src="IMAGE/201/JavaScript run.jpg">
-
+![JavaScript](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/JavaScript%20run.jpg?raw=true)
 
 3. statement
 
 A statement is an individual instruction that the computer should follow. Each one should start on a new line and end with a semicolon. This makes your code easier to read and follow.
 
-<img src="IMAGE/201/statement.jpg">
+![statement](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/statement.jpg?raw=true)
 
 4. comment
 
 explain what your code does.
 
-<img src="IMAGE/201/comments.jpg">
-
+![comments](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/comments.jpg?raw=true)

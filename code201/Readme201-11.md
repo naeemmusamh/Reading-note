@@ -6,7 +6,7 @@ You can control the size of an image using the width and height properties in CS
 
 Specifying image sizes helps pages to load more smoothly because the HTML and CSS code will often load before the images, and telling the browser how much space to leave for an image allows it to render the rest of the page without waiting for the image to download.
 
-<img src="IMAGE\image1.jpg">
+![image](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/image1.jpg?raw=true)
 
 2. Aligning images using CSS
 
@@ -16,19 +16,19 @@ There are two ways that this is commonly achieved:
 1. The float property is added to the class that was created to represent the size of the image.
 2. New classes are created with names such as align-left or align-right to align the images to the left or right of the page.
 
-<img src="IMAGE\image2.jpg">
+![image](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/image2.jpg?raw=true)
 
 3. Centering images using CSS
 
 images are inline elements. This means that they flow within the surrounding text. In order to center an image, it should be turned into a block level element using the display property with a value of block.
 
-<img src="IMAGE\image3.jpg">
+![image](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/image3.jpg?raw=true)
 
 4. Background-images
 
 The background-image property allows you to place an image behind any HTML element. This could be the entire page or just part of the page. By default, a background image will repeat to fill the entire box. The path to the image follows the letters url, and it is put inside parentheses and quotes.
 
-<img src="IMAGE\image4.jpg">
+![image](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/image4.jpg?raw=true)
 
 5. Repeating images
 
@@ -48,7 +48,7 @@ The background image stays in the same position on the page.
 2- scroll :
 The background image moves up and down as the user scrolls up and down the page.
 
-<img src="IMAGE\image5.jpg">
+![image](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/image5.jpg?raw=true)
 
 6. background position 
 
@@ -57,8 +57,9 @@ This property usually has a pair of values. The first represents the horizontal 
 
 (left top ,left center ,left bottom ,center top ,center center ,center bottom ,right top ,right center ,right bottom)
 
-<img src="IMAGE\image6.jpg">
-<img src="IMAGE\image7.jpg">
+![image](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/image6.jpg?raw=true)
+
+![image](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/image7.jpg?raw=true)
 
 7. shorthand
 

@@ -3,18 +3,18 @@ Welcome and hello to my page, where you'll learn the basics of computer programm
 In this course you will build your website but first it well prepare you to install some programs like Ubuntu and bash and vs code and git and make your windows version ready to work in it and sign in to GitHub and repl.it
 The general course schedule is:
 
-Reading-note for code 102
+# Reading-note for code ### 102
 
 |class|Topic|
 |-------|--------|
 |01|[growth mind](https://naeemmusamh.github.io/Reading-note/code102/Readme102-01)|
-|02|[make it site hand](https://naeemmusamh.github.io/Reading-note/code102/Readme102-02)--[Version Control](https://naeemmusamh.github.io/Reading-note/code102/Readme102-02b)|
-|03|[make site in vs code](https://naeemmusamh.github.io/Reading-note/code102/Readme102-03)]|
-|04|-------|
+|02|[make it site hand](https://naeemmusamh.github.io/Reading-note/code102/Readme102-02)|
+|02|[Version Control](https://naeemmusamh.github.io/Reading-note/code102/Readme102-02b)|
+|03|[make site in vs code](https://naeemmusamh.github.io/Reading-note/code102/Readme102-03)|
 |05|[FUNCTIONS, METHODS & OBJECTS](https://naeemmusamh.github.io/Reading-note/code102/Readme102-05)|
 |06|[reference](https://naeemmusamh.github.io/Reading-note/code102/Readme102-06)|
 
-Reading-note for code 201
+# Reading-note for code  ### 201
 
 |class|Topic|
 |-------|--------|
@@ -35,7 +35,7 @@ Reading-note for code 201
 |13|[THE WORK ISSUE](https://naeemmusamh.github.io/Reading-note/code201/Readme201-13)|
 
 
-Reading-note for code 301
+# Reading-note for code  ### 301
 
 |class|Topic|
 |-------|--------|
@@ -56,7 +56,7 @@ Reading-note for code 301
 |15|[DATABASE NORMALIZATION](https://naeemmusamh.github.io/Reading-note/code301/Readme301-15)|
 
 
-Reading-note for code 401
+# Reading-note for code  ### 401
 
 |class|Topic|
 |-------|--------|

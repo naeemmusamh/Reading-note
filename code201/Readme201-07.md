@@ -19,15 +19,15 @@ There are three elements that help distinguish between the main content of the t
 
 A- thead element tag : the heading of the table should si inside it.
 
-<img src="IMAGE/201/table1.jpg">
+![table](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/table1.jpg?raw=true)
 
 B- tbody element tag : the body should sit inside it.
 
-<img src="IMAGE/201/table2.jpg">
+![table](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/table2.jpg?raw=true)
 
 C- tfoot element tag : the footer belongs inside it.
 
-<img src="IMAGE/201/table3.jpg">
+![table](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/table3.jpg?raw=true)
 
 # style table
 
@@ -57,7 +57,7 @@ Methods represent tasks that are associated with the object.
 Like variables and named functions, properties and methods have a name and a value.
 In an object, that name is called a key. the object cannot have two keys with the same name. the value of a property can be (string, number, boolean, array, or anther object).
 
-<img src="IMAGE/201/object.jpg">
+![object](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/201/object.jpg?raw=true)
 
 properties
 

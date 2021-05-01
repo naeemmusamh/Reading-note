@@ -12,8 +12,6 @@ This idea that computers are for boys became a narrative. It became the story we
 
 Movies like Weird Science, Revenge of the Nerds and War Games all came out in the '80s. And the plot summaries are almost interchangeable: awkward geek boy genius uses tech savvy to triumph over adversity and win the girl.
 
-<img src="">
-
 In the 1990s, researcher Jane Margolis interviewed hundreds of computer science students at Carnegie Mellon University, which had one of the top programs in the country. She found that families were much more likely to buy computers for boys than for girls — even when their girls were really interested in computers.
 
 This was a big deal when those kids got to college. As personal computers became more common, computer science professors increasingly assumed that their students had grown up playing with computers at home.
