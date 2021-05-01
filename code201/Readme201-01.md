@@ -7,43 +7,49 @@ how to structure documents
 
 # So in this page you well learn about:
 
-1- Understanding structure.
+1. Understanding structure.
 
-2- Tags and elements
+2. Tags and elements
 
-3- The evolution of HTML
+3. The evolution of HTML
 
-4- Comments, meta information and iframe
+4. Comments, meta information and iframe
 
-5- HTML 5 and how old browsers understand new elements
+5. HTML 5 and how old browsers understand new elements
 
-6- How to approach building a site
+6. How to approach building a site
 
-7- What is HTML, CSS, and JS.
+7. What is HTML, CSS, and JS.
 
-1-understanding structure. a- How Pages Use Structure. Think about the stories you read in a newspaper: for each story, there will be a headline, some text, and possibly some images. If the article is a long piece, there may be subheadings that split
+1.understanding structure. a- How Pages Use Structure. Think about the stories you read in a newspaper: for each story, there will be a headline, some text, and possibly some images. If the article is a long piece, there may be subheadings that split
 the story into separate sections or quotes from those involved. Structure helps readers understand the stories in the newspaper. The structure is very similar when a news story is viewed online (although it may also feature audio or video).
 This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website. The structure is very similar when a news story is viewed online. You see it like this if in paper or mobile phone:
 
-![image](../image/HTML reading.jpg)
+<img src="IMAGE/201/HTML reading.jpg">
+
 b- Structuring Word Documents The use of headings and subheadings in any document often reflects a hierarchy of information. For example, a document might start with a large heading, followed by an introduction or the most important information. This
 might be expanded upon under subheadings lower down on the page. When using a word processor to create a document, we separate out the text to give it structure. Each topic might have a new paragraph, and each section can have a heading to
 describe what it covers. this photo you see how structure was added to a Word document to make it easier to understand. We use structure in the same way when writing web pages.
-![image](../image/HTML reading1.jpg)
+
+<img src="IMAGE/201/HTML reading1.jpg">
+
 c- HTM L Describes the Structure of Pages In the browser window you can see a web page that features exactly the same content as the Word document. To Describe the structure of a web page, we add code to the words we want to appear on the page. You can
 see the HTML code for this page below. Don't worry about what the code means yet. We start to look at it in more detail on the next page. Note that the HTML code is in blue, and the text you see on screen is in black.
 
-![image](../image/HTML reading2.jpg)
+<img src="IMAGE/201/HTML reading2.jpg">
+
 The HTML is made up of characters that live inside angled brackets — these are called HTML elements. Elements are usually made up of two tags: an opening tag and a closing tag. How to uses elements to describe the structure of pages??? Lets look closer
 at this photo. There are several different elements. Each element has an opening tag and a closing tag.
-![image](../image/HTML reading 3.jpg)
+
+<img src="IMAGE/201/HTML reading 3.jpg">
+
 Tags act like containers, they tell you something about the information that lies between their opening and closing tags.
 
 # tags and elements
 
 ## a- Body, Head & Title
 
-1- body You met the body element in the first example we created. Everything inside this element is shown inside the main browser window. 2- head Before the body element you will often see a head element. This contains information about the page. You
+1. body You met the body element in the first example we created. Everything inside this element is shown inside the main browser window. 2- head Before the body element you will often see a head element. This contains information about the page. You
 will usually find a title element inside the head element. 3- title The contents of the title element are either shown in the top of the browser, above where you usually type in the URL of the page you want to visit, or on the tab for that page.
 
 ### What is HTML?????

@@ -7,10 +7,10 @@ so I Forced myself to know I'm can do it and every person in this world not high
 
 # don't be alone in this world have some help from:
 
-1- high culture
+1. high culture
 
-2- older from you
+2. older from you
 
-3- the problem make sure to solve it in time
+3. the problem make sure to solve it in time
 
 **at the last let's say be smart be safe doing make something stupid 😂**

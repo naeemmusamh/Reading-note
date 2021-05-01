@@ -45,29 +45,29 @@
 
 # SUMMARY:
 
-  1- Functions allow you to group a set of related statements together that represent a single task.
+  1. Functions allow you to group a set of related statements together that represent a single task.
 
-  2- Functions can take parameters (information J required to do their job) and may return a value.
+  2. Functions can take parameters (information J required to do their job) and may return a value.
 
-  3- An object is a series of variables and functions that represent something from the world around you.
+  3. An object is a series of variables and functions that represent something from the world around you.
 
-  4- In an object, variables are known as properties of the object; functions are known as methods of the object.
+  4. In an object, variables are known as properties of the object; functions are known as methods of the object.
 
-  5- Web browsers implement objects that represent both the browser window and the document loaded into the browser
+  5. Web browsers implement objects that represent both the browser window and the document loaded into the browser
   window.
 
-  6- JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods
+  6. JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods
   offer functionality that help you write scripts.
 
-  7- Arrays and objects can be used to create complex data sets (and both can contain the other).
+  7. Arrays and objects can be used to create complex data sets (and both can contain the other).
 
 
   # let's talking about Decision :
 
   look at this photo
 
-  <image src="https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/Screenshot%202021-01-28%20105629.jpg?raw=true">
+  <img src="IMAGE/102/Screenshot 2021-01-28 105629.jpg">
 
-  <image src="https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/Screenshot%202021-01-28%20102537.jpg?raw=true">
+  <img src="IMAGE/102/Screenshot 2021-01-28 102537.jpg">
 
-  <image src="https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/Screenshot%202021-01-28%20150017.jpg?raw=true">
+  <img src="IMAGE/102/Screenshot 2021-01-28 150017.jpg">

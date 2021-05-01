@@ -23,7 +23,8 @@ you call the Map() constructor.
 3. zoom level
 
 is typically set using a number between 0 and 16.
-![map](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/map.jpg?raw=true)
+
+<img src="IMAGE/201/map.jpg">
 
 # CHANGING CONTROLS
 
@@ -66,13 +67,13 @@ To style the map you need to specify three things:
 • element Types: the part of that feature you want to style.
 • stylers: properties that allow you to adjust the color or visibility of items on the map.
 
-![map1](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/map1.jpg?raw=true)
+<img src="IMAGE/201/map1.jpg">
 
 # adding markers
 
 Here you can see how to add a marker to a map. The map has been created, and its name is venueMap.
 
-![map2](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/map2.jpg?raw=true)
+<img src="IMAGE/201/map2.jpg">
 
 # order of execution
 
@@ -104,7 +105,7 @@ When a variable is declared within a function, it can only be used within that f
 
 The javascript interpreter processes one line of code at a time. when a statement needs data from anther function.it stacks the new function on top the current task.
 
-![map3](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/map3.jpg?raw=true)
+<img src="IMAGE/201/map3.jpg">
 
 # EXECUTION CONTEXT & HOISTING
 
@@ -131,4 +132,4 @@ At that point, the interpreter stops and looks for exception-handling code.
 # ERROR OBJECTS
 Error objects can help you find where your mistakes are and browsers have tools to help you read them.
 
-![map4](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/map4.jpg?raw=true)
+<img src="IMAGE/201/map4.jpg">

@@ -7,11 +7,11 @@ CSS treats each HTML element as if it is in its own box. This box will either be
 
 Block-level boxes start on a new line and act as the main building blocks of any layout, while inline boxes flow between surrounding text.
 
-1- Block-level elements
+1. Block-level elements
 
 start on a new line Examples include: h1 p ul li elements tag
 
-2- Inline elements
+2. Inline elements
 flow in between surrounding text Examples include: img b i elements tag
 
 # Containing Elements
@@ -27,31 +27,31 @@ A box may be nested inside several other block-level elements. The containing el
 
 CSS has the following positioning schemes that allow you to control the layout of a page: 
 
-1- normal flow
+1. normal flow
 
-2- relative positioning
+2. relative positioning
 
-3- absolute positioning
+3. absolute positioning
 
 You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.
 
-1- normal flow :
+1. normal flow :
 
 Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one.
 
-![block1](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/block1.jpg)
+<img src="IMAGE/201/block1.jpg">
 
-2- relative positioning :
+2. relative positioning :
 
 This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed.
 
-![block2](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/block2.jpg)
+<img src="IMAGE/201/block2.jpg">
 
-3- absolute positioning :
+3. absolute positioning :
 
 This positions the element in relation to its containing element. It is taken out of normal flow, meaning that it does not affect the position of any surrounding elements.
 
-![block3](https://github.com/naeemmusamh/Reading-note/blob/main/IMAGE/block3.jpg)
+<img src="IMAGE/201/block3.jpg">
 
 To indicate where a box should be positioned, you may also need to use box offset properties to tell the browser how far from the top or bottom and left or right it should be placed.
 
