@@ -3,7 +3,7 @@ Welcome and hello to my page, where you'll learn the basics of computer programm
 In this course you will build your website but first it well prepare you to install some programs like Ubuntu and bash and vs code and git and make your windows version ready to work in it and sign in to GitHub and repl.it
 The general course schedule is:
 
-<h1> Reading-note for code <span style="color:red"> 102 </span> </h1> 
+<h1> Reading-note for code <span style="color:blue"> 102 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
@@ -14,7 +14,7 @@ The general course schedule is:
 |05|[FUNCTIONS, METHODS & OBJECTS](https://naeemmusamh.github.io/Reading-note/code102/Readme102-05)|
 |06|[reference](https://naeemmusamh.github.io/Reading-note/code102/Readme102-06)|
 
-<h1> Reading-note for code <span style="color:red"> 201 </span> </h1> 
+<h1> Reading-note for code <span style="color:blue"> 201 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
@@ -35,7 +35,7 @@ The general course schedule is:
 |13|[THE WORK ISSUE](https://naeemmusamh.github.io/Reading-note/code201/Readme201-13)|
 
 
-<h1> Reading-note for code <span style="color:red"> 301 </span> </h1> 
+<h1> Reading-note for code <span style="color:blue"> 301 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
@@ -56,7 +56,7 @@ The general course schedule is:
 |15|[DATABASE NORMALIZATION](https://naeemmusamh.github.io/Reading-note/code301/Readme301-15)|
 
 
-<h1> Reading-note for code <span style="color:red"> 401 </span> </h1> 
+<h1> Reading-note for code <span style="color:blue"> 401 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
