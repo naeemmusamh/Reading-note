@@ -61,9 +61,9 @@ The general course schedule is:
 |class|Topic|
 |-------|--------|
 |01|[How to think like a programmer](https://naeemmusamh.github.io/Reading-note/code401/Readme401-prep0)|
-|02|[Review, Research, and Discussion](https://naeemmusamh.github.io/Reading-note/code401/Readme401-01)|
+|02|[Review, Research, and Discussion](https://naeemmusamh.github.io/Reading-note/code401/Remdme401-01)|
 |03|[Express](https://naeemmusamh.github.io/Reading-note/code401/Readme401-02)|
-|04|-----|
+|04|[Express REST API](https://naeemmusamh.github.io/Reading-note/code401/Readme401-03)|
 |05|-----|
 |06|-----|
 |07|-----|
