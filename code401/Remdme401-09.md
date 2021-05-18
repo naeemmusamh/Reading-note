@@ -28,4 +28,4 @@ a user has already signed into one website or service. The user then initiates a
 
 6. The user gives the approved access token to the first website, access token at the first website.
 
-![OAuth]()
+![OAuth](https://github.com/naeemmusamh/Reading-note/blob/master/IMAGE/401/OAuth.jpg?raw=true)
