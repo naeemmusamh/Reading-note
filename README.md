@@ -63,12 +63,12 @@ The general course schedule is:
 |01|[How to think like a programmer](https://naeemmusamh.github.io/Reading-note/code401/Readme401-prep0)|
 |02|[Review, Research, and Discussion](https://naeemmusamh.github.io/Reading-note/code401/Remdme401-01)|
 |03|[Express](https://naeemmusamh.github.io/Reading-note/code401/Readme401-02)|
-|04|[Express RESTAPI](https://naeemmusamh.github.io/Reading-note/code401/Readme401-03)|
+|04|[Class expressions](https://naeemmusamh.github.io/Reading-note/code401/Readme401-03)|
 |05|[SQL AND NoSQL](https://naeemmusamh.github.io/Reading-note/code401/Readme401-04)|
-|06|[Authentication](https://naeemmusamh.github.io/Reading-note/code401/Readme401-05)|
-|07|[JSON Web Token](https://naeemmusamh.github.io/Reading-note/code401/Readme401-06)|
-|08|-----|
-|09|-----|
+|06|[Linked Lists](https://naeemmusamh.github.io/Reading-note/code401/Readme401-05)|
+|07|[Authentication](https://naeemmusamh.github.io/Reading-note/code401/Readme401-06)|
+|08|[JSON Web Token](https://naeemmusamh.github.io/Reading-note/code401/Readme401-07)|
+|09|[role-based access control](https://naeemmusamh.github.io/Reading-note/code401/Readme401-08)|
 |10|-----|
 |11|-----|
 |12|-----|
