@@ -7,73 +7,73 @@ The general course schedule is:
 
 |class|Topic|
 |-------|--------|
-|01|[growth mind](https://naeemmusamh.github.io/Reading-note/code102/Readme102-01)|
-|02|[make it site hand](https://naeemmusamh.github.io/Reading-note/code102/Readme102-02)|
-|02|[Version Control](https://naeemmusamh.github.io/Reading-note/code102/Readme102-02b)|
-|03|[make site in vs code](https://naeemmusamh.github.io/Reading-note/code102/Readme102-03)|
-|05|[FUNCTIONS, METHODS & OBJECTS](https://naeemmusamh.github.io/Reading-note/code102/Readme102-05)|
-|06|[reference](https://naeemmusamh.github.io/Reading-note/code102/Readme102-06)|
+|01|[growth mind](./code102/Readme102-01.md)|
+|02|[make it site hand](./code102/Readme102-02.md)|
+|02|[Version Control](./code102/Readme102-02b.md)|
+|03|[make site in vs code](./code102/Readme102-03.md)|
+|05|[FUNCTIONS, METHODS & OBJECTS](./code102/Readme102-005.md)|
+|06|[reference](./code102/Readme102-06.md)|
 
 <h1> Reading-note for code <span style="color:blue"> 201 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
-|01|[css + js](https://naeemmusamh.github.io/Reading-note/code201/Readme201-01)|
-|02|[The Element in HTML](https://naeemmusamh.github.io/Reading-note/code201/code201/Readme201-02)|
-|03|[CSS and JS style](https://naeemmusamh.github.io/Reading-note/code201/Readme201-03)|
-|04|[CSS and JS style2](https://naeemmusamh.github.io/Reading-note/code201/Readme201-04)]|
-|05|[image and css style](https://naeemmusamh.github.io/Reading-note/code201/Readme201-05)|
-|06|[JavaScript call function](https://naeemmusamh.github.io/Reading-note/code201/Readme201-06)|
-|07|[JavaScript object and HTML](https://naeemmusamh.github.io/Reading-note/code201/Readme201-07)|
-|08|[HTML and CSS the layout](https://naeemmusamh.github.io/Reading-note/code201/Readme201-08)|
-|09|[Examining the dom and forms](https://naeemmusamh.github.io/Reading-note/code201/Readme201-09)|
-|10|[BASIC MAP SETTINGS](https://naeemmusamh.github.io/Reading-note/code201/Readme201-10)|
-|11|[HTML Image and Practical information ](https://naeemmusamh.github.io/Reading-note/code201/Readme201-11)|
-|12|[CANVAS AND CHARTS.JS ](https://naeemmusamh.github.io/Reading-note/code201/Readme201-12)|
-|13|[THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](https://naeemmusamh.github.io/Reading-note/code201/Readme201-13)|
-|13|[HTML AND CSS](https://naeemmusamh.github.io/Reading-note/code201/Readme201-14a)|
-|13|[THE WORK ISSUE](https://naeemmusamh.github.io/Reading-note/code201/Readme201-13)|
+|01|[css + js](./code201/Readme201-01.md)|
+|02|[The Element in HTML](./code201/code201/Readme201-02.md)|
+|03|[CSS and JS style](./code201/Readme201-03.md)|
+|04|[CSS and JS style2](./code201/Readme201-04.md)]|
+|05|[image and css style](./code201/Readme201-05.md)|
+|06|[JavaScript call function](./code201/Readme201-06.md)|
+|07|[JavaScript object and HTML](./code201/Readme201-07.md)|
+|08|[HTML and CSS the layout](./code201/Readme201-08.md)|
+|09|[Examining the dom and forms](./code201/Readme201-09.md)|
+|10|[BASIC MAP SETTINGS](./code201/Readme201-10.md)|
+|11|[HTML Image and Practical information ](./code201/Readme201-11.md)|
+|12|[CANVAS AND CHARTS.JS ](./code201/Readme201-12.md)|
+|13|[THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](./code201/Readme201-13.md)|
+|13|[HTML AND CSS](./code201/Readme201-14a.md)|
+|13|[THE WORK ISSUE](./code201/Readme201-13.md)|
 
 
 <h1> Reading-note for code <span style="color:blue"> 301 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
-|01|[RESPONSIVE WEB DESIGN and FLOATS](https://naeemmusamh.github.io/Reading-note/code301/Readme301-01)|
-|02|[JQuery, Events, and The DOM](https://naeemmusamh.github.io/Reading-note/code301/Readme301-02)|
-|03|[MUSTACHE and FLEXION](https://naeemmusamh.github.io/Reading-note/code301/Readme301-03)|
-|04|[Regex tutorial — A quick cheatsheet by examples](https://naeemmusamh.github.io/Reading-note/code301/Readme301-04)|
-|05|[Node.js For Beginners. Deploy Your Blog to Heroku](https://naeemmusamh.github.io/Reading-note/code301/Readme301-05)|
-|06|[calling function that need information](https://naeemmusamh.github.io/Reading-note/code301/Readme301-06)|
-|07|[APIs continued](https://naeemmusamh.github.io/Reading-note/code301/Readme301-07)|
-|08|[SQL](https://naeemmusamh.github.io/Reading-note/code301/Readme301-08)|
-|09|[FUNCTIONAL PROGRAMMING](https://naeemmusamh.github.io/Reading-note/code301/Readme301-09)|
-|10|[THE CALL STACK](https://naeemmusamh.github.io/Reading-note/code301/Readme301-10)|
-|11|[Rest , EJS](https://naeemmusamh.github.io/Reading-note/code301/Readme301-11)|
-|12|[EJS PARTIALS](https://naeemmusamh.github.io/Reading-note/code301/Readme301-12)|
-|13|[Update and Delete](https://naeemmusamh.github.io/Reading-note/code301/Readme301-13)|
-|14|[DATABASE NORMALIZATION](https://naeemmusamh.github.io/Reading-note/code301/Readme301-14)|
-|15|[DATABASE NORMALIZATION](https://naeemmusamh.github.io/Reading-note/code301/Readme301-15)|
+|01|[RESPONSIVE WEB DESIGN and FLOATS](./code301/Readme301-01.md)|
+|02|[JQuery, Events, and The DOM](./code301/Readme301-02.md)|
+|03|[MUSTACHE and FLEXION](./code301/Readme301-03.md)|
+|04|[Regex tutorial — A quick cheatsheet by examples](./code301/Readme301-04.md)|
+|05|[Node.js For Beginners. Deploy Your Blog to Heroku](./code301/Readme301-05.md)|
+|06|[calling function that need information](./code301/Readme301-06.md)|
+|07|[APIs continued](./code301/Readme301-07.md)|
+|08|[SQL](./code301/Readme301-08.md)|
+|09|[FUNCTIONAL PROGRAMMING](./code301/Readme301-09.md)|
+|10|[THE CALL STACK](./code301/Readme301-10.md)|
+|11|[Rest , EJS](./code301/Readme301-11.md)|
+|12|[EJS PARTIALS](./code301/Readme301-12.md)|
+|13|[Update and Delete](./code301/Readme301-13.md)|
+|14|[DATABASE NORMALIZATION](./code301/Readme301-14.md)|
+|15|[DATABASE NORMALIZATION](./code301/Readme301-15.md)|
 
 
 <h1> Reading-note for code <span style="color:blue"> 401 </span> </h1> 
 
 |class|Topic|
 |-------|--------|
-|01|[How to think like a programmer](https://naeemmusamh.github.io/Reading-note/code401/Readme401-prep0)|
-|02|[Review, Research, and Discussion](https://naeemmusamh.github.io/Reading-note/code401/Remdme401-01)|
-|03|[Express](https://naeemmusamh.github.io/Reading-note/code401/Readme401-02)|
-|04|[Class expressions](https://naeemmusamh.github.io/Reading-note/code401/Readme401-03)|
-|05|[SQL AND NoSQL](https://naeemmusamh.github.io/Reading-note/code401/Readme401-04)|
-|06|[Linked Lists](https://naeemmusamh.github.io/Reading-note/code401/Readme401-05)|
-|07|[Authentication](https://naeemmusamh.github.io/Reading-note/code401/Readme401-06)|
-|08|[JSON Web Token](https://naeemmusamh.github.io/Reading-note/code401/Readme401-07)|
-|09|[role-based access control](https://naeemmusamh.github.io/Reading-note/code401/Readme401-08)|
-|10|[OAuth](https://naeemmusamh.github.io/Reading-note/code401/Readme401-09)|
-|11|[Stacks and Queues](https://naeemmusamh.github.io/Reading-note/code401/Readme401-10)|
-|12|[Event Driven Applications](https://naeemmusamh.github.io/Reading-note/code401/Readme401-11)|
-|13|-----|
-|14|-----|
+|01|[How to think like a programmer](./code401/Readme401-prep0.md)|
+|02|[Review, Research, and Discussion](./code401/Remdme401-01.md)|
+|03|[Express](./code401/Readme401-02.md)|
+|04|[Class expressions](./code401/Readme401-03.md)|
+|05|[SQL AND NoSQL](./code401/Readme401-04.md)|
+|06|[Linked Lists](./code401/Readme401-05.md)|
+|07|[Authentication](./code401/Readme401-06.md)|
+|08|[JSON Web Token](./code401/Readme401-07.md)|
+|09|[role-based access control](./code401/Readme401-08.md)|
+|10|[OAuth](./code401/Readme401-09.md)|
+|11|[Stacks and Queues](./code401/Readme401-10.md)|
+|12|[Event Driven Applications](./code401/Readme401-11.md)|
+|13|[Socket.IO](./code401/Readme401-12.md)|
+|14|[Message Queues](./code401/Readme401-13.md)|
 |15|-----|
 
 # The Reference
