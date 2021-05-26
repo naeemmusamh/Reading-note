@@ -74,7 +74,8 @@ The general course schedule is:
 |12|[Event Driven Applications](./code401/Readme401-11.md)|
 |13|[Socket.IO](./code401/Readme401-12.md)|
 |14|[Message Queues](./code401/Readme401-13.md)|
-|15|-----|
+|14|[Event Driven Architecture](./code401/Readme401-14.md)|
+|14|[Trees](./code401/Readme401-15.md)|
 
 # The Reference
 
