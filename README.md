@@ -81,7 +81,9 @@ The general course schedule is:
 |19|[AWS: API, Dynamo and Lambda](./code401/Remdme401-18.md)|
 |20|[AWS: Events](./code401/Remdme401-19.md)|
 |21|[React](./code401/Remdme401-20.md)|
-|21|[React](./code401/Remdme401-21.md)|
+|21|[Components and Props](./code401/Remdme401-21.md)|
+|22|[Component Composition](./code401/Remdme401-22.md)|
+|23|[Routing](./code401/Remdme401-23.md)|
 
 
 # The Reference
