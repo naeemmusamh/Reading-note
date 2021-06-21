@@ -1,9 +1,10 @@
 # 102 + 201 + 301 + 401 Explore Software Development
+
 Welcome and hello to my page, where you'll learn the basics of computer programming. It'll be a lot of work and a lot of fun.
 In this course you will build your website but first it well prepare you to install some programs like Ubuntu and bash and vs code and git and make your windows version ready to work in it and sign in to GitHub and repl.it
 The general course schedule is:
 
-<h1> Reading-note for code <span style="color:blue">  102 </span> </h1> 
+# Reading-note for code <span style="color: blue;">102</span>
 
 |class|Topic|
 |-------|--------|
@@ -14,14 +15,14 @@ The general course schedule is:
 |05|[FUNCTIONS, METHODS & OBJECTS](./code102/Readme102-005.md)|
 |06|[reference](./code102/Readme102-06.md)|
 
-<h1> Reading-note for code <span style="color:blue"> 201 </span> </h1> 
+# Reading-note for code <span style="color: blue;">201</span>
 
 |class|Topic|
 |-------|--------|
 |01|[css + js](./code201/Readme201-01.md)|
 |02|[The Element in HTML](./code201/code201/Readme201-02.md)|
 |03|[CSS and JS style](./code201/Readme201-03.md)|
-|04|[CSS and JS style2](./code201/Readme201-04.md)]|
+|04|[CSS and JS style2](./code201/Readme201-04.md)|
 |05|[image and css style](./code201/Readme201-05.md)|
 |06|[JavaScript call function](./code201/Readme201-06.md)|
 |07|[JavaScript object and HTML](./code201/Readme201-07.md)|
@@ -34,8 +35,7 @@ The general course schedule is:
 |13|[HTML AND CSS](./code201/Readme201-14a.md)|
 |13|[THE WORK ISSUE](./code201/Readme201-13.md)|
 
-
-<h1> Reading-note for code <span style="color:blue"> 301 </span> </h1> 
+# Reading-note for code <span style="color: blue;">301</span>
 
 |class|Topic|
 |-------|--------|
@@ -55,8 +55,7 @@ The general course schedule is:
 |14|[DATABASE NORMALIZATION](./code301/Readme301-14.md)|
 |15|[DATABASE NORMALIZATION](./code301/Readme301-15.md)|
 
-
-<h1> Reading-note for code <span style="color:blue"> 401 </span> </h1> 
+# Reading-note for code <span style="color: blue;">401</span>
 
 |class|Topic|
 |-------|--------|
@@ -84,7 +83,10 @@ The general course schedule is:
 |21|[Components and Props](./code401/Remdme401-21.md)|
 |22|[Component Composition](./code401/Remdme401-22.md)|
 |23|[Routing](./code401/Remdme401-23.md)|
-
+|24|[Hash Tables](./code401/Remdme401-24.md)|
+|25|[HOOK](./code401/Remdme401-25.md)|
+|26|[React Hook](./code401/Remdme401-26.md)|
+|27|[React Context](./code401/Remdme401-27.md)|
 
 # The Reference
 
