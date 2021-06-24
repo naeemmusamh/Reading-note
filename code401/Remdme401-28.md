@@ -1,3 +1,5 @@
+# Login and Auth
+
 What are the advantages of storing tokens in “Cookies” vs “Local Storage”
 Explain 3rd party cookies.
 Third-party cookies (also known as tracking cookies or trackers) are created by “parties” other than the website that the user is currently visiting – providers of advertising, retargeting, analytics and tracking services.
