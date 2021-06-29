@@ -87,6 +87,12 @@ The general course schedule is:
 |25|[HOOK](./code401/Remdme401-25.md)|
 |26|[React Hook](./code401/Remdme401-26.md)|
 |27|[React Context](./code401/Remdme401-27.md)|
+|28|[React Login and Auth](./code401/Remdme401-28.md)|
+|29|[Graph](./code401/Remdme401-29.md)|
+|30|[Redux](./code401/Remdme401-30.md)|
+|31|[Redux - Combined Reducers](./code401/Remdme401-31.md)|
+|32|[Redux Thunk middleware](./code401/Remdme401-32.md)|
+|33|[Redux - Additional Topics](./code401/Remdme401-33.md)|
 
 # The Reference
 
